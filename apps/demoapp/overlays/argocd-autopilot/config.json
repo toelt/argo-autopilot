@@ -1,0 +1,1 @@
+{"appName":"demoapp","userGivenName":"demoapp","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/demoapp/overlays/argocd-autopilot","srcRepoURL":"https://github.com/toelt/argo-autopilot.git","srcTargetRevision":"","labels":null}
