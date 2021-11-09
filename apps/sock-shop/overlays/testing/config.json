@@ -1,9 +1,9 @@
 {
-  "appName":"hello-world",
-  "userGivenName":"hello-world",
-  "destNamespace":"default",
+  "appName":"sock-shop",
+  "userGivenName":"sock-shop",
+  "destNamespace":"sock-shop",
   "destServer":"https://kubernetes.default.svc",
-  "srcPath":"apps/hello-world/overlays/testing",
+  "srcPath":"apps/sock-shop/overlays/testing",
   "srcRepoURL":"https://github.com/toelt/argocd-autopilot-gitops.git",
   "srcTargetRevision":"",
   "labels":null
