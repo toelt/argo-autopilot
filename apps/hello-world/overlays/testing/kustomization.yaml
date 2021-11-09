@@ -4,5 +4,5 @@ resources:
 - ../../base
 
 images:
-  - name: kostiscodefresh/simple-web-app
-    newTag: c88df35
+- name: kostiscodefresh/simple-web-app
+  newTag: latest
